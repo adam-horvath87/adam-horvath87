@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ádám 👋
 
-<!--
-**adam-horvath87/adam-horvath87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cybersecurity Engineering student at Óbuda University with technical background in infrastructure and engineering.
 
-Here are some ideas to get you started:
+## 🔐 Interests
+- Web application security (XSS, SQL Injection)
+- Penetration testing
+- Network analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+- Burp Suite
+- Nmap, Wireshark
+- Metasploit
+- Gobuster, Nikto
+- Feroxbuster
+- Wifite
+- Hashcat, Jack the ripper
+- Bettercap
+
+## 💻 Systems
+- Linux (Kali, Arch, Ubuntu, Tails, Qubes)
+- Windows
+
+## 📚 Currently learning
+- PortSwigger Web Security Academy labs
+- CEH (Certified Ethical Hacker)
+- Phone rooting
+
+## 🚀 Goal
+To start my career in cybersecurity and pentesting. 
