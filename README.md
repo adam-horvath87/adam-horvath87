@@ -1,13 +1,13 @@
 # Hi, I'm Ádám 👋
 
-I am a Cybersecurity Engineering student at Óbuda University with technical background in infrastructure and engineering.
+I am a Cybersecurity Engineering student at Óbuda University. And i share my projects here.
 
-## 🔐 Interests
+## Interests
 - Web application security (XSS, SQL Injection)
 - Penetration testing
 - Network analysis
 
-## 🛠 Tools
+## Tools
 - Burp Suite
 - Nmap, Wireshark
 - Metasploit
@@ -17,14 +17,14 @@ I am a Cybersecurity Engineering student at Óbuda University with technical bac
 - Hashcat, Jack the ripper
 - Bettercap
 
-## 💻 Systems
+## Systems
 - Linux (Kali, Arch, Ubuntu, Tails, Qubes)
 - Windows
 
-## 📚 Currently learning
+## Currently learning
 - PortSwigger Web Security Academy labs
 - CEH (Certified Ethical Hacker)
 - Phone rooting
 
-## 🚀 Goal
+## My Goal
 To start my career in cybersecurity and pentesting. 
