@@ -25,6 +25,7 @@ I am a Cybersecurity Engineering student at Óbuda University. And i share my pr
 - PortSwigger Web Security Academy labs
 - CEH (Certified Ethical Hacker)
 - Phone rooting
+- HackTheBox
 
 ## My Goal
 To start my career in cybersecurity and pentesting. 
