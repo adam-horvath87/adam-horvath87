@@ -12,7 +12,6 @@ I am a Cybersecurity Engineering student at Óbuda University. And i share my pr
 - Nmap, Wireshark
 - Metasploit
 - Gobuster, Nikto
-- Feroxbuster
 - Wifite
 - Hashcat, Jack the ripper
 - Bettercap
@@ -28,4 +27,4 @@ I am a Cybersecurity Engineering student at Óbuda University. And i share my pr
 - HackTheBox
 
 ## My Goal
-To start my career in cybersecurity and pentesting. 
+To start my career in cybersecurity and pentesting.
