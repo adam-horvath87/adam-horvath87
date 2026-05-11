@@ -3,7 +3,7 @@
 I am a Cybersecurity Engineering student at Óbuda University. And i share my "projects" here.
 
 ## Interests
-- Web application security (XSS, SQL Injection)
+- Bug Bounties
 - Penetration testing
 - Network analysis
 
