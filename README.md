@@ -23,7 +23,9 @@ I am a Cybersecurity Engineering student at Óbuda University. And i share my "p
 ## Currently learning
 - PortSwigger Web Security Academy labs
 - CEH (Certified Ethical Hacker)
-- Phone rooting
+- Cisco's Junior SOC analyst
+- Python programming
+- Bash scripting
 - HackTheBox
 
 ## My Goal
