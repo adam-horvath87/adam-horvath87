@@ -18,7 +18,7 @@ I am a Cybersecurity Engineering student at Óbuda University. And i share my pr
 
 ## Systems
 - Linux (Kali, Arch, Ubuntu, Tails, Qubes)
-- Windows
+- Microsoft (MS-Dos, then Win NT, XP, Vista...etc.)
 
 ## Currently learning
 - PortSwigger Web Security Academy labs
