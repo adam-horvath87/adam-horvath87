@@ -1,6 +1,6 @@
 # Hi, I'm Ádám 👋
 
-I am a Cybersecurity Engineering student at Óbuda University. And i share my projects here.
+I am a Cybersecurity Engineering student at Óbuda University. And i share my "projects" here.
 
 ## Interests
 - Web application security (XSS, SQL Injection)
@@ -18,7 +18,7 @@ I am a Cybersecurity Engineering student at Óbuda University. And i share my pr
 
 ## Systems
 - Linux (Kali, Arch, Ubuntu, Tails, Qubes)
-- Microsoft (MS-Dos, then Win NT, XP, Vista...etc.)
+- Microsoft (MS-Dos, then Win NT, 95, 98 SE, XP, Vista...etc... except 8...that one looked like a fiat multipla...)
 
 ## Currently learning
 - PortSwigger Web Security Academy labs
