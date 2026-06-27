@@ -1,4 +1,4 @@
-# Hi, I'm Ádám 👋
+# Hi, My name is Adam,
 
 I am a Cybersecurity Engineering student at Óbuda University. And i share my "projects" here.
 
